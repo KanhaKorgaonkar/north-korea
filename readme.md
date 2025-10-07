@@ -26,7 +26,7 @@ Special thanks to the **Claude Builders Club at UW** for hosting the event and t
 <td width="50%">
 Before 😢
 <br><br>
-<video src="input_video.mp4" controls>
+<video src="https://github.com/KanhaKorgaonkar/north-korea/blob/main/input_video.mp4" controls>
 Your browser does not support the video tag.
 </video>
 <br>
@@ -35,7 +35,7 @@ Oppressive watermarks everywhere
 <td width="50%">
 After 🎉
 <br><br>
-<video src="output_cleaned.mp4" controls>
+<video src="https://github.com/KanhaKorgaonkar/north-korea/blob/main/output_cleaned.mp4" controls>
 Your browser does not support the video tag.
 </video>
 <br>
@@ -44,7 +44,7 @@ Freedom achieved
 </tr>
 </table>
 
-> Note: GitHub doesn't always render embedded videos. If you can't see them above, check the /examples folder directly!
+> Note: GitHub doesn't always render embedded videos. If you can't see them above, check the repo for input and output video files directly!
 
 ## ✨ Features
 
