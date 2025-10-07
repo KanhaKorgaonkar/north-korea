@@ -21,7 +21,8 @@ Special thanks to the **Claude Builders Club at UW** for hosting the event and t
 
 ## In action
 Left: frame from input video. Right: frame after watermark was removed after running this tool once at default settings.
-<img width="1158" height="1004" alt="image" src="https://github.com/user-attachments/assets/334d45d6-8db9-40f0-925e-e7da3a11e3a4" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/334d45d6-8db9-40f0-925e-e7da3a11e3a4" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/d3256295-f44e-49d7-a79a-dd5957541853" />
 
 > Note: GitHub doesn't always render embedded videos. I have included the input and output video files that these frames are taken from in the repo. 
 
