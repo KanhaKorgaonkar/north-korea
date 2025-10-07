@@ -20,31 +20,10 @@ Special thanks to the **Claude Builders Club at UW** for hosting the event and t
 ---
 
 ## In action
+Left: frame from input video. Right: frame after watermark was removed after running this tool once at default settings.
+<img width="1158" height="1004" alt="image" src="https://github.com/user-attachments/assets/334d45d6-8db9-40f0-925e-e7da3a11e3a4" />
 
-<table>
-<tr>
-<td width="50%">
-Before 😢
-<br><br>
-<video src="https://github.com/KanhaKorgaonkar/north-korea/blob/main/input_video.mp4" controls>
-Your browser does not support the video tag.
-</video>
-<br>
-Oppressive watermarks everywhere
-</td>
-<td width="50%">
-After 🎉
-<br><br>
-<video src="https://github.com/KanhaKorgaonkar/north-korea/blob/main/output_cleaned.mp4" controls>
-Your browser does not support the video tag.
-</video>
-<br>
-Freedom achieved
-</td>
-</tr>
-</table>
-
-> Note: GitHub doesn't always render embedded videos. If you can't see them above, check the repo for input and output video files directly!
+> Note: GitHub doesn't always render embedded videos. I have included the input and output video files that these frames are taken from in the repo. 
 
 ## ✨ Features
 
